@@ -50,9 +50,9 @@ export default function Footer() {
                     <Link className={'block text-gray-500 hover:text-white active:text-white text-sm'} href={'/terms-of-service'}>
                         <h4>Terms Of Service</h4>
                     </Link>
-                    <Link className={'block text-gray-500 hover:text-white active:text-white text-sm'} href={'/cookies'}>
+                    {/* <Link className={'block text-gray-500 hover:text-white active:text-white text-sm'} href={'/cookies'}>
                         <h4>Cookies</h4>
-                    </Link>
+                    </Link> */}
                 </div>
             </div>
         </footer>
